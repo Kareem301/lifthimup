@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Lift Him Up by Lifting Others
+
+We are living in a time in history when there seems to be continued caos, desctruction, deception, and doom.
 
 You can use the [editor on GitHub](https://github.com/mykone/lifthimup.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
