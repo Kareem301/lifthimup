@@ -1,8 +1,8 @@
 - name: Home
-  link: /
+  link: /lifthimup/
 - name: Blog
-  link: /blog.html
+  link: /lifthimup/blog.html
 - name: About
-  link: /about.html
+  link: /lifthimup/about.html
 - name: News
-  link: /news.html
+  link: /lifthimup/news.html
