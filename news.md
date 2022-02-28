@@ -1,3 +1,7 @@
+---
+layout: default
+title: News
+---
 ## Pandemic-related News
 
 * [Ontario's mask mandate could be lifted 'simultaneously' across most areas, including in schools](https://toronto.ctvnews.ca/ontario-s-mask-mandate-could-be-lifted-simultaneously-across-most-areas-including-in-schools-1.5794833)

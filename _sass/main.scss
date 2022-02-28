@@ -1,0 +1,26 @@
+  body {
+    background-color: #333;
+    color: #eee;
+    font-family: Helvetica;
+  }
+
+  h1, a {
+    color:  orange;
+  }
+  
+  a {
+    text-decoration: none;
+    font-weight: 600;
+  }
+  
+  .footer a{
+    font-size: 0.7rem;
+    color: #eee;
+  }
+
+  nav a {
+    text-transform: uppercase;
+    &.active{
+    color:  red;      
+    }
+  }
